@@ -35,3 +35,10 @@ Der "AI Creator" Bot kombiniert künstliche Intelligenz mit verschiedenen Funkti
 3. Starte mit den oben aufgeführten Befehlen!
 
 Viel Spaß beim Verwenden des "AI Creator" Bots! Bei Fragen oder Problemen schaue in die Dokumentation oder kontaktiere den Entwickler.
+
+
+
+
+Menü
+
+[Leveeling](/leveling/README.md)
