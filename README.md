@@ -26,4 +26,7 @@ Der SmarterBot kombiniert künstliche Intelligenz mit verschiedenen Funktionen, 
 ### [Verifizierung](/verifiy/README.md)
 
 
+### [Clear](/clear/README.md)
+
+
 
