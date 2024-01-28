@@ -11,9 +11,7 @@ Der SmarterBot kombiniert künstliche Intelligenz mit verschiedenen Funktionen, 
 ### [Leveling](/leveling/README.md)
 
 
-
 ### [Tickets](/tickets/README.md)
-
 
 
 ### [Roles](/roles/README.md)
