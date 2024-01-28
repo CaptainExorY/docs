@@ -20,3 +20,8 @@ Um das Ticket Template zu verwenden, befolge diese Schritte:
 4. Klicke auf **Speichern**.
 
 Sobald du diese Schritte abgeschlossen hast, gib `/tickets template` auf deinem Server ein, an der Stelle, an der du die Nachricht haben möchtest, und du hast dein benutzerdefiniertes Setup.
+
+
+![Image Description](Screenshot_LogChannel.png)
+
+![Image Description](Screenshot_UserDm.png)
