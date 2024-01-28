@@ -6,7 +6,7 @@ Willkommen zum SmarterBot! Dieser vielseitige Bot bietet eine breite Palette von
 
 Der SmarterBot kombiniert künstliche Intelligenz mit verschiedenen Funktionen, um ein umfassendes Erlebnis zu bieten. Nutze die verschiedenen Befehle, um kreative Aufgaben zu automatisieren und den Bot an deine Bedürfnisse anzupassen.
 
-## Kategorien
+## Commands
 
 ### [Leveling](/leveling/README.md)
 
@@ -22,20 +22,3 @@ Der SmarterBot kombiniert künstliche Intelligenz mit verschiedenen Funktionen, 
 ### [Giveaways](/giveaways/README.md)
 
 
-## Installation
-
-
-Viel Spaß beim Verwenden des "AI Creator" Bots! Bei Fragen oder Problemen schaue in die Dokumentation oder kontaktiere den Entwickler.
-
-
-
-
-Menü
-
-[Leveling](/leveling/README.md)
-
-[Tickets](/tickets/README.md)
-
-[Roles](/roles/README.md)
-
-[Giveaways](/giveaways/README.md)
