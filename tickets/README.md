@@ -1,4 +1,4 @@
-# Nutzung des Ticket Templates
+# Tickets & Templates
 
 Um das Ticket Template zu verwenden, befolge diese Schritte:
 
@@ -21,7 +21,7 @@ Um das Ticket Template zu verwenden, befolge diese Schritte:
 
 Sobald du diese Schritte abgeschlossen hast, gib `/tickets template` auf deinem Server ein, an der Stelle, an der du die Nachricht haben möchtest, und du hast dein benutzerdefiniertes Setup.
 
-
+- **PS: Lässt sich ein Ticket mal doch nicht mehr per Knopf schließen, geb im Ticket einfach /tickets close [ID] [Reason]. Die ID steht in jeder Eröffnungsnachricht eines Tickets, worin auch der Command genutzt werden sollte.**
 ![Image Description](Screenshot_LogChannel.png)
 
 ![Image Description](Screenshot_UserDm.png)
