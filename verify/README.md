@@ -19,3 +19,5 @@
 - **Fügen Sie dem beitreten noch einen Schritt hinzu**: Fügen Sie einen weiterren Verifizierungs-Sschritt ein.
 - **Einfach zu benutzen**: Es ist einfach zu nutzen.
 - **Schnell eingerichtet**: Super schnell eingerichtet.
+
+![Image Description](Screenshot.png)
