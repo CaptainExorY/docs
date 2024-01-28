@@ -8,6 +8,12 @@
 - **`/leveling multiplier [User] [Multiplier]`**: Hiermit wird der Multiplizierungsfaktor eines Benutzers angepasst.
 
 
+## Funktionialität:
+
+**Jedes Wort ist 1 Punkt wert, sofern der Benutzer einen Mulitilikator von 1 hat.**
+**Benutzer sollen engagiert werden mehr zu schreiben.**
+
+
 ## System Details:
 
 - **Unbegrenzte Level**: Level gibt es unendlich, sie werden nur von mal zu mal schwerer.

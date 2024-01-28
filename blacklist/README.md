@@ -13,5 +13,7 @@
 
 ## System Details:
 
+
+- **Lasse unerwünschten Worten keinen Platz**: Blockiere bestimmte worte.
 - **Einfach zu benutzen**: Es ist einfach zu nutzen.
 - **Schnell eingerichtet**: Super schnell eingerichtet.

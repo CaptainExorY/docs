@@ -8,6 +8,12 @@
 - **`/giveaway delete [Name]`**: Hiermit wird ein Giveaway gelöscht.
 - **`/giveaway end [Name]`**: Hiermit wird ein Giveaway vorzeitig ohne Gewinner beendet.
 
+## Funktionialität:
+
+**Jeder Benutzer kann einmal Teilnehmen.**
+**Es werden die angegebene Anzahl von [Winners] genommen als Gewinneranzahl.**
+**DAS GIVEAWAYSYSTEM WIRD AKTUELL AUSGEBAUT!!!!! NICHT NUTZEN!.**
+
 
 ## System Details:
 
