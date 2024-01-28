@@ -41,4 +41,6 @@ Viel Spaß beim Verwenden des "AI Creator" Bots! Bei Fragen oder Problemen schau
 
 Menü
 
-[Leveeling](/leveling/README.md)
+[Leveling](/leveling/README.md)
+
+[Tickets](/tickets/README.md)
