@@ -22,3 +22,7 @@ Der SmarterBot kombiniert künstliche Intelligenz mit verschiedenen Funktionen, 
 ### [Giveaways](/giveaways/README.md)
 
 
+### [Blacklist](/blacklist/README.md)
+
+
+
