@@ -8,21 +8,18 @@ Der SmarterBot kombiniert künstliche Intelligenz mit verschiedenen Funktionen, 
 
 ## Kategorien
 
-### 1. Generierung
-- **!createArt**
+### [Leveling](/leveling/README.md)
 
 
-### 2. Information
-- **!botInfo**
+
+### [Tickets](/tickets/README.md)
 
 
-### 3. Unterhaltung
-- **!tellJoke**
 
-- **!quote [author]**
+### [Roles](/roles/README.md)
 
 
-### 4. Anpassung
+### [Giveaways](/giveaways/README.md)
 
 
 ## Installation
