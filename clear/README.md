@@ -1,4 +1,4 @@
-# Verifierzierungssystem
+# Nachrichten Löschen
 
 ## Commands:
 
