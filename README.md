@@ -40,3 +40,5 @@ Menü
 [Tickets](/tickets/README.md)
 
 [Roles](/roles/README.md)
+
+[Giveaways](/giveaways/README.md)
